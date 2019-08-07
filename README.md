@@ -1,2 +1,2 @@
 # GuessingColorGame
-//This ia a rgb colors guessing game
+rgb colors guessing game
